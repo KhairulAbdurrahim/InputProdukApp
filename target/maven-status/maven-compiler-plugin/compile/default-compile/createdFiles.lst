@@ -1,0 +1,10 @@
+kelas\model\ProdukMakanan.class
+kelas\model\InputProduk.class
+kelas\controller\DaftarController.class
+kelas\controller\DetailController.class
+kelas\controller\FormController.class
+kelas\model\ProdukMinuman.class
+kelas\MainApp.class
+kelas\model\Produk.class
+kelas\data\DataProduk.class
+kelas\Navigator.class
